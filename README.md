@@ -1,2 +1,2 @@
-# agentic-research-tech-stack
+# agentic-econ-research-stack
 Tech stack with curated documentations for beginners
